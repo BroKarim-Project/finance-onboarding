@@ -1,0 +1,37 @@
+🛡️SOURCE CODE
+- https://www.youtube.com/watch?v=Td3xEWwRAQA ( G ada full code, cuman startting projek aaj) => https://github.com/abuanwar072/Build-an-Animated-App-with-Rive-and-Flutter
+
+🌈SOURCE REDESIGN
+- https://dribbble.com/shots/24293589-Onboarding-Mobile-App-Ui
+
+🤫APAKAH BISA SDK FLUTTER D TARU DI DIRECTORY SELAIN CODE
+Bisa, asalah di atur ntar environment variable >> path >> new path - done
+Nnatinya dia bakal otomatis ke set ada di semua path 
+
+🎉CODE DI VSCODE, EMULATOR DI ANDROID STUDIO
+https://www.youtube.com/watch?v=q-3r85fl-g4
+OR 
+https://www.youtube.com/watch?v=EhGW4UYpKSE
+
+🚀REDESIGN BUKAN RESTRUCTURE
+Biar lebih mudah kita fokus ke REDESIGN aja buka RESTRUCTURE
+
+- Sehingga perubahaan hanya pada style
+- sedangkan fitur atau function kita pahami saja
+
+📁APAKAH FLUTTER BISA HOT RELOAD?
+
+Bisa, tapi untuk saat ini cara yang kita tahu masih manual artinya g langsung reload saat kita lakukan perubahan tapi
+harus tekan : 
+- r : hot reload
+- R : hot restart
+
+📁CARA MENJALANKAN FLUTTER D CHROME
+=> flutter run -d chrome
+
+📁KLO ADA PERUBAHAN D pubspec.yaml
+dan tidak terbaca saat dijankan coba run this command
+=> flutter pub get
+
+📁Animasi Delay 
+https://github.com/sagarshende23/Reflectly-Flutter-App/blob/master/lib/delayed_animation.dart
