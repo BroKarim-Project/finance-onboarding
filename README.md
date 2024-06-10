@@ -1,16 +1,26 @@
-# flutter_apk1
+<h1 align="center">Onboarding Mobile with Flutter and Rive</h1>
 
-A new Flutter project.
+<p align="center">
+   <a href="https://github.com/BroKarim">
+    <img src="https://img.shields.io/badge/Github-Sagar Shende-black.svg?style=for-the-badge">
+  </a>
+  <a href="https://github.com/BroKarim-Project/finance-onboarding/stargazers">
+    <img src="https://img.shields.io/github/stars/sagarshende23/reflectly-like-loginpage-flutter.svg?style=for-the-badge">
+  </a>
 
-## Getting Started
+ <a href="https://github.com/BroKarim-Project/finance-onboarding">
+    <img src="https://img.shields.io/badge/Open-Source-green.svg?style=for-the-badge">
+  </a>  
+</p>
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="assets/flutter1.png" width="250" hspace="4">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ Built with Amazing Tools
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
+- [Android Studio](https://developer.android.com/studio/index.html/) - Tools for building Awesome apps on every type of Android device.
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
