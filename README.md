@@ -1,17 +1,6 @@
 <h1 align="center">Onboarding Mobile with Flutter and Rive</h1>
 
-<p align="center">
-   <a href="https://github.com/BroKarim">
-    <img src="https://img.shields.io/badge/Github-Sagar Shende-black.svg?style=for-the-badge">
-  </a>
-  <a href="https://github.com/BroKarim-Project/finance-onboarding/stargazers">
-    <img src="https://img.shields.io/github/stars/sagarshende23/reflectly-like-loginpage-flutter.svg?style=for-the-badge">
-  </a>
 
- <a href="https://github.com/BroKarim-Project/finance-onboarding">
-    <img src="https://img.shields.io/badge/Open-Source-green.svg?style=for-the-badge">
-  </a>  
-</p>
 
 ## 📱 Screenshots
 
